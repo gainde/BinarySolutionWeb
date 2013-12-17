@@ -1,0 +1,50 @@
+/* Reset */
+
+* {
+	margin:0px;
+	padding:0px;
+}
+
+.clearFix {
+	clear: both;
+}
+
+#nav{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 300;
+	font-size:14px;
+}
+
+#nav ul{
+	height:100%;
+	list-style:none;
+	-webkit-border-radius: 6px;
+}
+
+#nav li{
+	float:left;
+	padding:0px;
+	/*line-height:100px;*/
+}
+
+#nav li a{
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	color:#fff;
+	/*line-height:100px;*/
+	padding:20px 29px;
+	-webkit-border-radius: 6px;
+	
+	vertical-align: middle;
+}
+
+#nav li a:hover{
+	text-decoration:none;
+	color:#1861de;
+	-webkit-border-radius: 3px;
+}
+
+.logo{
+	margin-right: 28px;
+}
