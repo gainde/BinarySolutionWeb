@@ -1,4 +1,0 @@
-BinarySolutionWeb
-=================
-
-enterprise website
