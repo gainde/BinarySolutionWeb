@@ -1,0 +1,152 @@
+﻿@font-face {
+	font-family: 'qlassik';
+	src: url('qlassik_tb.otf')
+}
+
+.row {
+	overflow: hidden;
+}
+
+.sixteen-columns {
+	max-width: 100% !important;
+	width: 100% !important
+}
+
+.third-column {
+	width: 33.3333%;
+	float:left;
+}
+
+.two-thirds-columns {
+	width: 66.6666%
+}
+
+.background-fixed {
+	background: #2A2A2A;
+	width: 100%;
+	height:70px;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+}
+
+.cv h3 {
+	  background: none;
+	  font-weight: 400;
+	  font-style: normal;
+	  padding: 0;
+}
+.cv h2 {
+	margin-bottom: 6px;
+}
+.cv .points {
+	position: absolute;
+	top: 8px;
+	left: 145px;
+}
+.cv .point {
+	width: 17px;
+	height: 17px;
+	-webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+    background: #045fb4;
+}
+.cv .point.none {
+	background: #d2d2d2;
+}
+.cv .competence {
+	padding:4px 0;
+	position: relative;
+}
+.cv .competence:hover {
+	background: #f1f1f1;
+}
+.cv span {
+	display: inline-block;
+	width: 163px;
+	font-size:12px;
+	color:#aaa;
+}
+.cv span.experience{
+	width: 400px;
+	padding:15px 0;
+}
+.space-45 {
+	margin-top: 45px;
+}
+.space-20 {
+    margin-top: 17px;
+}
+.space-140 {
+    margin-top: 138px;
+}
+.margin-130 {
+	margin-left: 130px;
+}
+.cv .experience {
+	position: relative;
+}
+.cv .experience .back{
+	top: 10px;
+	bottom: 0;
+	left: 45px;
+	width: 10px;
+	background: #045fb4;
+	height: 100%;
+	position: absolute;
+	z-index: -1;
+}
+.cv .experience .main, .cv .experience .else {
+	width: 85px;
+	height: 85px;
+	border: 11px solid #045fb4;
+	-webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.cv .experience .else {
+	width: 70px;
+	height: 70px;
+	border: 9px solid #045fb4;
+	background: #fff;
+}
+.cv .chronologie-experience h2{
+	padding-top: 40px;
+}
+.cv .experience .image-entreprise {
+	/*float: left;*/
+	width: 100px;
+	overflow: hidden;
+	margin-right: 30px;
+}
+.cv .experience article {
+	margin-bottom: 20px;
+}
+.cv .experience article ul{
+	margin-left: 130px;
+	font-size: 0.8em;
+}
+.cv .experience article .margin-130 ul{
+    margin-left: 0px;
+}
+.cv .experience article .entreprise {
+	font-weight: 600;
+}
+.cv .experience article .date {
+    float: right;
+    color: #ccc;
+}
+.cv .autres h2 {
+	margin: 20px 0 30px;
+	border-top: 1px solid #ccc;
+	padding-top: 40px;
+}

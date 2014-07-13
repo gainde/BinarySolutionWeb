@@ -1,72 +1,44 @@
 <div class="serviceheader" rel="#web">
-<table cellspacing="0">
-<tr><td colspan="2" class="texthead">
-<h3 class="head-service">Solution Web</h3></td></tr>
-<tr><td>
-Nous vous offrons un site web sur mesure, qui correspond à votre image. Un site dynamique à la pointe de la technologie.
-</td><td>
 <img class="image-service" src="./images/1.png" height="200" width="200"/>
-</td></tr></table>
+<h3 class="head-service">Solution Web</h3>
+Nous vous offrons un site web sur mesure, qui correspond à votre image. Un site dynamique à la pointe de la technologie.
 </div>
 
 <div class="serviceheader" rel="#design">
-<table cellspacing="0">
-<tr><td colspan="2" class="texthead">
-<h3 class="head-service">Design</h3></td></tr>
-<tr><td>
-Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer 
-balababa abbababbab babsbabsa bsabsab
-</td><td >
 <img class="image-service" src="./images/2.jpg" height="200" width="200"/>
-</td></tr></table>
-</div>
-<div class="serviceheader" rel="#application">
-<table cellspacing="0">
-<tr><td colspan="2" class="texthead">
-<h3 class="head-service">Application de gestion</h3></td></tr>
-<tr><td>
+<h3 class="head-service">Design</h3>
 Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer 
 balababa abbababbab babsbabsa bsabsab
-</td><td>
+</div>
+
+<div class="serviceheader" rel="#application">
 <img class="image-service" src="./images/3.jpg" height="200" width="200"/>
-</td></tr></table>
+<h3 class="head-service">Application de gestion</h3>
+Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer 
+balababa abbababbab babsbabsa bsabsab
+
 </div>
 <div class="serviceheader" rel="#maintenance">
-<table cellspacing="0">
-<tr><td colspan="2" class="texthead">
-<h3 class="head-service">Maintenance</h3></td></tr>
-<tr><td>
+<img class="image-service" src="./images/4.jpg" height="200" width="200"/>
+<h3 class="head-service">Maintenance</h3>
 Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer 
 balababa abbababbab babsbabsa bsabsab
-</td><td>
-<img class="image-service" src="./images/4.jpg" height="200" width="200"/>
-</td></tr></table>
 </div>
 
 
 
 <div class="serviceheader" rel="#montage">
-<table cellspacing="0">
-<tr><td colspan="2" class="texthead">
-<h3 class="head-service">Montage Video</h3></td></tr>
-<tr><td>
+<img class="image-service" src="./images/2.jpg" height="200" width="200"/>
+<h3 class="head-service">Montage Video</h3>
 Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer 
 balababa abbababbab babsbabsa bsabsab
-</td><td >
-<img class="image-service" src="./images/2.jpg" height="200" width="200"/>
-</td></tr></table>
 </div>
 
 <div class="serviceheader" rel="#BI">
-<table cellspacing="0">
-<tr><td colspan="2" class="texthead">
-<h3 class="head-service">Intelligence d'affaire</h3></td></tr>
-<tr><td>
+<img class="image-service" src="./images/3.jpg" height="200" width="200"/>
+<h3 class="head-service">Intelligence d'affaire</h3>
 Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer 
 balababa abbababbab babsbabsa bsabsab
-</td><td>
-<img class="image-service" src="./images/3.jpg" height="200" width="200"/>
-</td></tr></table>
 </div>
 
 

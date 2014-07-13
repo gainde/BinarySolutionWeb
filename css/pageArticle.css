@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/* CSS Document */
+.contentArticle
+{
+	background-color:#eee;
+}
+
+.articlePreview
+{
+	position:relative;
+	display: inline-block;
+	vertical-align:auto;
+	margin:0px 10px 10px 10px;
+	background-color:#fff;
+	border:1px solid #fff;
+	//border-color:#06F;
+	width:244px;
+	height:300px;
+	border-radius: 5px 5px;
+	box-shadow: 1px 2px 2px;
+	-webkit-box-shadow:1px 2px 2px;
+	-webkit-border-radius:5px 5px;
+}
+
+.imagePosition
+{	border:0px solid #fff;
+	float:left;
+	width:240px;
+	height:140px;
+	padding-bottom:5px;
+	padding-right:10px;
+}
+
+.bouton_article
+{
+    position:absolute;
+    right: 2px;
+	width:240px;
+    bottom: 2px;
+    background:#1865de;
+    //border: 1px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 3px;
+    color: white;
+    text-decoration: none;
+	-moz-box-shadow: inset 0 0 1px 1px #888;
+	-webkit-box-shadow: inset 0 0 1px 1px #888;
+	box-shadow: inset 0 0 1px 1px #888;
+}
+
+.texte_preview
+{
+	 position:absolute;
+	overflow:hidden;
+		height:262px;
+		padding-left:2px;
+		width:240px;
+}
+
+article
+{
+	padding-left:7px;
+	text-align:left;
+	margin:0px 10px 10px 10px;
+	background-color:#fff;
+	border:1px solid #fff;
+	//border-color:#06F;
+	//width:244px;
+	//height:300px;
+	border-radius: 5px 5px;
+	box-shadow: 1px 2px 2px;
+	-webkit-box-shadow:1px 2px 2px;
+	-webkit-border-radius:5px 5px;
+}
+
+.titre_article
+{
+	font-size:34px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align:center;
+}
+
+.auteur_article
+{
+	font-size:20px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+.previous_link, .page_link,.next_link
+{
+	border:1px solid;
+	text-decoration:none;
+	background:#ccc;
+	border-radius: 5px;
+    text-align: center;
+    padding: 3px 15px;
+    color: #1865de;
+}
+.page_link
+{
+	width:10px;
+	padding:3px 10px;
+}
+
+#page_navigation
+{
+	text-align:center;
+}
+
+.active_page
+{
+	background:#1865de;
+	color:white;
+}

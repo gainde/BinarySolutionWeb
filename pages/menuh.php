@@ -2,9 +2,9 @@
 <ul>
    <li class='has-sub'><a href='#'><span>Présentation</span></a>
       <ul>
-         <li><a href='#'><span>CV</span></a></li>
+         <li><a class="ajax" href='pages/cv.php'><span>CV</span></a></li>
          <li><a href='#'><span>PorteFolio</span></a></li>
-         <li><a href='#'><span>Articles</span></a></li>
+         <li><a class="ajax" href='pages/afficher_article.php'><span>Articles</span></a></li>
          <li class='last'><a href='#'><span>Tutoriels</span></a></li>
       </ul>
    </li>
@@ -24,7 +24,7 @@
    </li>
    <li class='has-sub last'><a href='#'><span>Tutoriels</span></a>
       <ul>
-         <li><a href='#'><span>Tuto 1</span></a></li>
+         <li><a class="ajax" href='./test/tutorials.php'><span>Tuto 1</span></a></li>
          <li><a href='lien2.php'><span>Tuto 2</span></a></li>
          <li class='last'><a href='lien3.php'><span>Tuto 3</span></a></li>
       </ul>
